@@ -15,15 +15,15 @@
 <h3> Base de donnée H2 </h3>
 <img src="captures/c7.png">
 <img src="captures/c8.png">
-<h3>Rendu HTML </h3>
+<h3>Rendu HTML généré coté serveur </h3>
 <img src="captures/c9.png">
-<h3>Rendu HTML en ajoutant bootstrap </h3>
+<h3>Rendu HTML généré coté serveur en ajoutant bootstrap </h3>
 <img src="captures/c10.png">
-<h3>Rendu HTML en ajoutant bootstrap et bouton DELETE </h3>
+<h3>Rendu HTML généré coté serveur en ajoutant bootstrap et bouton DELETE </h3>
 <img src="captures/c11.png">
-<h3>Rendu HTML aprés suppression du produit dont l'ID est 3  </h3>
+<h3>Rendu HTML généré coté serveur aprés suppression du produit dont l'ID est 3  </h3>
 <img src="captures/c12.png">
-<h3>Rendu HTML : Affichage d'un message pour confirmer la suppresion</h3>
+<h3>Rendu HTML généré coté serveur: Affichage d'un message pour confirmer la suppresion</h3>
 <img src="captures/c13.png">
 
 
